@@ -1,6 +1,9 @@
 body {
-    background: linear-gradient(45deg, red, blue);
+    background: linear-gradient(45deg, rgb(173, 247, 243), rgb(253, 138, 247));
 }
-h1 {
-    color: green;
+nav {
+    position: fixed;
+    top: 0px;
+    height: 10px;
+    color: aqua;
 }
