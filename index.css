@@ -3,11 +3,12 @@ body {
 }
 nav {
     position: fixed;
-    top: 0px;
     height: 10%;
     width: 100%;
-    color: aqua;
+    color: peru;
 }
 #mypic {
     float: center;
+    height: 50%;
+    width: auto;
 }
