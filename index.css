@@ -5,11 +5,12 @@ nav {
     position: fixed;
     top: 0px;
     left: 0px;
+    height: 20px;
     width: 100%;
     background-color:rgb(250, 228, 102);
     border-style: solid;
     border-width: 5px;
-    padding: 15px;
+    padding: 10px;
 }
 #mypic {
     top: 60px;
@@ -23,10 +24,14 @@ ul {
 }
 li {
     display: inline-block;
-    margin: 20px;
+    margin: 5px;
     color: black;
 }
 #intro {
     display: block;
     text-align: center;
+}
+.spacer {
+    height: 50px;
+    width: 100%;
 }
