@@ -10,6 +10,6 @@ nav {
 }
 #mypic {
     float: center;
-    height: 50%;
-    width: auto;
+    max-width: 50%;
+    max-height: 50%;
 }
