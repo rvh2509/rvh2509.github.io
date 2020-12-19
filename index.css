@@ -1,4 +1,5 @@
 body {
+    top: 50px;
     background: linear-gradient(45deg, rgb(173, 247, 243), rgb(253, 138, 247));
 }
 nav {
@@ -6,12 +7,13 @@ nav {
     top: 0px;
     left: 0px;
     width: 100%;
-    background-color:rgb(206, 83, 255);
+    background-color:rgb(250, 228, 102);
     border-style: solid;
     border-width: 5px;
     padding: 15px;
 }
 #mypic {
+    top: 60px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -19,4 +21,5 @@ nav {
 }
 #navigation-link {
     margin: 20px;
+    color: black;
 }
