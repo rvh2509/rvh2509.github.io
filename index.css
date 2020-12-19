@@ -17,3 +17,6 @@ nav {
     margin-right: auto;
     max-height: 100%;
 }
+#navigation-link {
+    margin: 20px;
+}
