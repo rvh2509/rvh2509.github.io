@@ -1,7 +1,5 @@
-div {
-    background-color: linear-gradient(45deg, purple, gold);
-    top: 0px;
-    bottom: 0px;
+body {
+    background-color: purple;
 }
 h1 {
     color: red;
