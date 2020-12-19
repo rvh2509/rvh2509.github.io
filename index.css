@@ -10,28 +10,40 @@ nav {
     background-color:rgb(250, 228, 102);
     border-style: solid;
     border-width: 5px;
-    padding: 10px;
+    padding: 10px 10px 12px 15px;
 }
 #mypic {
-    top: 60px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     max-height: 100%;
 }
 ul {
+    padding: 0px;
+    margin: 0px;
     list-style-type: none;
 }
 li {
     display: inline-block;
-    margin: 5px;
+    margin-right: 10px;
+    padding: 0px;
     color: black;
+}
+a {
+    font-size: 18px;
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: rgb(253, 138, 247);
 }
 #intro {
     display: block;
     text-align: center;
 }
 .spacer {
-    height: 50px;
+    height: 40px;
     width: 100%;
 }

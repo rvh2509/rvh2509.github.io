@@ -1,18 +1,39 @@
 body {
-    top: 50px;
     background: linear-gradient(45deg, rgb(173, 247, 243), rgb(253, 138, 247));
 }
 nav {
     position: fixed;
     top: 0px;
     left: 0px;
+    height: 20px;
     width: 100%;
     background-color:rgb(250, 228, 102);
     border-style: solid;
     border-width: 5px;
-    padding: 15px;
+    padding: 10px 10px 12px 15px;
+}
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
 }
 li {
-    margin: 20px;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 0px;
     color: black;
+}
+a {
+    font-size: 18px;
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: rgb(253, 138, 247);
+}
+.spacer {
+    height: 40px;
+    width: 100%;
 }
