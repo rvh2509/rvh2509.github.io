@@ -39,7 +39,7 @@ a:visited {
 a:hover {
     color: rgb(253, 138, 247);
 }
-#intro {
+.center-text {
     display: block;
     text-align: center;
 }
